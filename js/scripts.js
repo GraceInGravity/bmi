@@ -1,4 +1,4 @@
-alert("What's wrong?!");
+alert("Let's figure out your BMI!");
 
 var bmi = function(weight, height) {
   return weight / (height * height) * 703;
